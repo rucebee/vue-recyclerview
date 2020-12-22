@@ -6,7 +6,7 @@ Mastering Large Lists with the vue-recyclerview
 
 ## Feature
 
-- DOM recyleing
+- DOM recycling
 - Multiple column
 - Waterflow
 
